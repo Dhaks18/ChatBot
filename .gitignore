@@ -1,0 +1,7 @@
+
+# Inside whitelisted folders, you may still want to ignore heavy stuff:
+**/node_modules/
+**/venv/
+**/venv_new/
+**/.venv/
+**/.env
